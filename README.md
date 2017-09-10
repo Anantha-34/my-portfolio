@@ -1,2 +1,3 @@
-# my-portfolio
-this is my professional portfolio
+# Anantha Sundararajan portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
